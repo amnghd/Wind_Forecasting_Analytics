@@ -16,7 +16,9 @@ In summary, you will see the followings in the `Energy_Forecasting`` jupyter not
 
 - Modelling using K-NN regressor
 
+- Modelling using K-NN regressor on scaled data
 
-The result shows $30\%$ of the power data is explained by the model.
-We might need more data to deveolope better feature set.
+- Modelling using Random Forest on scaled data
+
+The result shows that $50\%$ of the wind farm power data is explained using this model.
 
